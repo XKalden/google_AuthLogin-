@@ -3,9 +3,9 @@ const app = express();
 
 
 
-
 app.get('/', (req,res) => {
-    res.send({hi: 'there'});
+
+    res.send({byeee: 'Buddy'});
 });
 
 
